@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
+
 using namespace std;
 
 char Tabuleiro[3][3];
